@@ -65,7 +65,8 @@ color: #63a3ac;
 }
 main img{
 max-width: 100%;
-font-size: 20pt;
+margin: auto;
+display: block;
 
 }
 #pequena{
