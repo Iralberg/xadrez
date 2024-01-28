@@ -22,7 +22,7 @@ header{
     min-width: 180px;
 background-image: linear-gradient(to bottom,var(--cor4),var(--cor3));
 margin:-10px -20px 0px -20px;
-padding: 5px;
+padding: 10px;
 color: var(--cor0);
 }
 header h1{
